@@ -1,0 +1,22 @@
+Ejercicio 1 boletos de cine
+
+¿La salida coincide con la esperada? 
+Sí 
+¿Las clases hijas llaman a super().__init__()? 
+Sí  
+BoletoEstudiante usa super() para calcular el precio? 
+Sí   
+Sugerencias de Copilot que rechazaron y por qué 
+ninguna
+
+
+Ejercicio 2 estacionamiento 
+
+¿La salida coincide con la esperada? 
+Sí 
+¿Las clases hijas llaman a super().__init__()? 
+Sí 
+¿EstanciaNocturna usa super() para calcular el cobro? 
+Sí 
+Sugerencias de Copilot que rechazaron y por qué 
+ninguna
